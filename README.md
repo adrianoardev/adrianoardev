@@ -1,4 +1,5 @@
-## Olá!! Sou o Adriano
+## Olá!! 
+## Sou o Adriano Araujo
 
 - 🔭 Hoje eu trabalho com vendas, estou em transição de carreira para Desenvolvimento front-end
 - 🌱 Estudando HTML, CSS, JavaScript
