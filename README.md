@@ -1,5 +1,5 @@
-### Olá gente! :wave:
-## Eu sou Adriano Araujo
+### Bem vindo (a), ao meu perfil!
+### Eu sou Adriano Araujo
 
 - :books: Estudante de Análise e Desenvolvimento de Sistemas
 - :computer: Estudante de Desenvolvimento Full-Stack
