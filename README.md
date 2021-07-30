@@ -1,11 +1,10 @@
 ### Bem vindo (a), ao meu perfil!
-### Eu sou Adriano Araujo
+## Me chamo Adriano Araujo
 
 - :books: Estudante de Análise e Desenvolvimento de Sistemas
 - :computer: Estudante de Desenvolvimento Full-Stack
 - :office: Trabalho de vendedor, estou em transição de carreira para área de Desenvolvimento Front-end
 #
-
 <div>
   <a href="https://github.com/adrianoardev">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=adrianoardev&theme=midnight-purple&show_icons=true"/>
@@ -24,7 +23,8 @@
   <img aling="center" alt="Adriano JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img aling="center" alt="Adriano C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
 </div>
-<br>      
+<br> 
+  
 <div>
   <a href="mailto:adrianoardev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/adriano-araujo27"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> 
