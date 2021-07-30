@@ -1,5 +1,4 @@
-### Bem vindo (a), ao meu perfil!
-## Me chamo Adriano Araujo
+### Bem vindo (a), ao meu perfil! Me chamo Adriano Araujo
 
 - :books: Estudante de Análise e Desenvolvimento de Sistemas
 - :computer: Estudante de Desenvolvimento Full-Stack
