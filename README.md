@@ -24,11 +24,12 @@
   <img aling="center" alt="Adriano JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img aling="center" alt="Adriano C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
 </div>
-<br>
       
 <div>
   <a href="mailto:adrianoardev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/adriano-araujo27"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-    ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
-  </a>
+  <a href="https://www.linkedin.com/in/adriano-araujo27"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> 
+  </a>  
+  
+   ![Snake animation](https://github.com/adrianoardev/adrianoardev/blob/output/github-contribution-grid-snake.svg) 
+  
 </div>
