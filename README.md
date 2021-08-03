@@ -1,4 +1,4 @@
-### Bem vindo (a), ao meu perfil!
+### :wave: Bem vindo (a), ao meu perfil!
 
 - :books: Estudante de Análise e Desenvolvimento de Sistemas
 - :computer: Estudante de Desenvolvimento Full-Stack
