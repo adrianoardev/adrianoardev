@@ -1,7 +1,7 @@
 ### :wave: Bem vindo (a), ao meu perfil!
 
 - :books: Estudante de Análise e Desenvolvimento de Sistemas
-- :computer: Estudante de Desenvolvimento Front-end
+- :computer: Estudante de Desenvolvimento Front-End
 - :office: Trabalho de vendedor, estou em transição de carreira para área de Desenvolvimento Front-End
 #
 <div>
