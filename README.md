@@ -2,7 +2,7 @@
 
 - :books: Estudante de Análise e Desenvolvimento de Sistemas
 - :computer: Estudante de Desenvolvimento Front-end
-- :office: Trabalho de vendedor, estou em transição de carreira para área de Desenvolvimento Front-end
+- :office: Trabalho de vendedor, estou em transição de carreira para área de Desenvolvimento Front-End
 #
 <div>
   <a href="https://github.com/adrianoardev">
