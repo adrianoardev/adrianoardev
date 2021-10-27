@@ -1,13 +1,14 @@
-### :wave: Bem vindo (a), ao meu perfil!
+### Hi there!  I'm Adriano Araujo :wave:
+<p align="left"><img src="https://komarev.com/ghpvc/?username=adrianoardev&color=yellow" alt="Profile views" /> </p>
 
-- :books: Estudante de Análise e Desenvolvimento de Sistemas
-- :computer: Estudante de Desenvolvimento Front-End
-- :office: Trabalho de vendedor, estou em transição de carreira para área de Desenvolvimento Front-End
+- :books: Systems Analysis and Development student
+- :computer: Front End Developer
+- :office: In career transition to Front-End Development
 #
 <div>
   <a href="https://github.com/adrianoardev">
-  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=adrianoardev&theme=chartreuse-dark&show_icons=true"/>
-  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianoardev&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=adrianoardev&theme=vision-friendly-dark"/>
+  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianoardev&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
   </div>  
 
 <div style="display: inline_block"><br>
