@@ -1,5 +1,4 @@
 ### Hi there!  I'm Adriano Araujo :wave:
-<p align="left"><img src="https://komarev.com/ghpvc/?username=adrianoardev&color=yellow" alt="Profile views" /> </p>
 
 - :books: Systems Analysis and Development student
 - :computer: Front End Developer
