@@ -1,8 +1,8 @@
 ### Hi there!  I'm Adriano Araujo :wave:
 
-- :books: Systems Analysis and Development student
-- :computer: Front End Developer
-- :office: In career transition to Front-End Development
+- :books: Estudante de Análise e Desenvolvimento de Sistemas
+- :computer: Desenvolvedor Front-End
+- :office: Em transição de carreira para Desenvolvimento Front-End 
 #
 <div>
   <a href="https://github.com/adrianoardev">
