@@ -1,4 +1,4 @@
-### Hi there!  I'm Adriano Araujo :wave:
+### Olá! Eu sou Adriano Araujo :wave:
 
 - :books: Estudante de Análise e Desenvolvimento de Sistemas
 - :computer: Desenvolvedor Front-End
