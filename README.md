@@ -1,5 +1,5 @@
 ## :wave: Olá, meu nome é <strong>Adriano Araujo!</strong>
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="200px" max-width="200px" width="200px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="250px" max-width="250px" width="250px" align="right" alt="Computador iuriCode">
 
 <p align="left">
  :books: Estudante de Análise e Desenvolvimento de Sistemas.
