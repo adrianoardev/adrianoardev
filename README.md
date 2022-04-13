@@ -2,19 +2,19 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="200px" max-width="200px" width="200px" align="right" alt="Computador iuriCode">
 
 <p align="left">
- :books: <strong>Estudante de Análise e Desenvolvimento de Sistemas.</strong>
+ :books: Estudante de Análise e Desenvolvimento de Sistemas.
 </p>
 
 <p align="left">
-:office: <strong>Trabalho de vendedor, estou em transição de carreira para Desenvolvedor Front-End.</strong>
+:office: Trabalho de vendedor, estou em transição de carreira para Desenvolvedor Front-End.
 </p>
 
 <p align="left">
- :computer: Habilidades: <strong>Estudando HTML, CSS, JavaScript, UI Design.</strong>
+ :computer: <strong>Habilidades:</strong> Estudando HTML, CSS, JavaScript, UI Design.
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VS Code, PyCharm, Figma, GitHub.</strong>
+  💼 <strong>Ferramentas:</strong> VS Code, PyCharm, Figma, GitHub.
 </p>
 </br>
 
