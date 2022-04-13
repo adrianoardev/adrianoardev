@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-:office: <strong>Atualmente trabalhando como vendedor, em transição de carreira para Desenvolvedor Front-End.</strong>
+:office: <strong>Trabalho de vendedor, em transição de carreira para Desenvolvedor Front-End.</strong>
 </p>
 
 <p align="left">
